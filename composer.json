@@ -1,0 +1,7 @@
+{
+    "require": {
+        "yurunsoft/yurun-http": "^4.2",
+        "swlib/saber": "^1.0",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
